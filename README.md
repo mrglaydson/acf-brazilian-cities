@@ -3,7 +3,7 @@ Plugin para adicionar opção de estados e cidades brasileiras nas opções de c
 
 ## Descrição
 
-Plugin para wordpress que extende o plugin ACF e adiciona um novo tipo de campo personalizado, este novo campo adiciona a opção de escolha de estado e cidade (de acordo com o estado escolhido), através da API IBGE
+Plugin para wordpress que extends o plugin ACF e adiciona um novo tipo de campo personalizado, este novo campo adiciona a opção de escolha de estado e cidade (de acordo com o estado escolhido), através da API IBGE
 
 ## Instalação
 
